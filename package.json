@@ -22,7 +22,7 @@
   "homepage": "https://github.com/microsoft/vscode-github-triage-actions#readme",
   "dependencies": {
     "@actions/core": "^1.9.1",
-    "@actions/github": "^6.0.0",
+    "@actions/github": "^7.0.0",
     "@octokit/auth-app": "^7.1.4",
     "@azure/core-http": "^3.0.2",
     "@azure/identity": "^4.2.1",
@@ -40,7 +40,7 @@
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.33.0",
     "chai": "^4.3.6",
-    "eslint": "^8.21.0",
+    "eslint": "^9.26.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "husky": "^8.0.1",
